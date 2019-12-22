@@ -15,3 +15,4 @@ to see any snow.
 
 ![christmas-3015776_640](https://user-images.githubusercontent.com/45696431/71326950-994bbe00-250a-11ea-8ceb-fe8026753420.jpg)
 
+[My studies](diary-043.md)
