@@ -1,7 +1,7 @@
 # Hello website
 Welcome to the CS-E4101 Introduction to DevOps course!
 
-## About my course in Aalto
+## About my christmass in Finland
 
 
 Christmas is the most important celebration day in finland and special day since the actual santa clause or 
